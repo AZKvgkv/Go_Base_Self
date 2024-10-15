@@ -1,0 +1,10 @@
+vim abc 123 你好 halo 1
+vim abc 123 你好 halo 2
+vim abc 123 你好 halo 3
+vim abc 123 你好 halo 4
+vim abc 123 你好 halo 5
+vim abc 123 你好 halo 6
+vim abc 123 你好 halo 7
+vim abc 123 你好 halo 8
+vim abc 123 你好 halo 9
+vim abc 123 你好 halo 0
